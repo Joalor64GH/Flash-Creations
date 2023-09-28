@@ -1,0 +1,21 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+#bod{
+	-moz-column-count: 4;
+	-moz-column-gap: 10px;
+	-webkit-column-count: 4;
+	-webkit-column-gap: 10px;
+	column-count: 4;
+	column-gap: 10px;
+}
+img{
+	border: none;
+	vertical-align:middle;
+	margin-top: -2px;
+	margin-bottom: -2px;
+}
+h2{
+	margin:0.2em;
+}
